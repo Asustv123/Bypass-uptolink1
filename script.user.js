@@ -3,7 +3,7 @@
 // @namespace    https://vanhcheat.rf.gd
 // @version      2.0
 // @description  Bypass UptoLink — host trên nekovcheat.io
-// @require      https://nekovcheat.io/source.js
+// @require      https://raw.githubusercontent.com/Asustv123/Bypass-uptolink1/main/source.js
 // @match        *://*/*
 // @author       NekoVCheat
 // @grant        GM_xmlhttpRequest
