@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Bypass UptoLink (NekoVCheat)
-// @namespace    https://nekovcheat.io/
+// @namespace    https://vanhcheat.rf.gd
 // @version      2.0
 // @description  Bypass UptoLink — host trên nekovcheat.io
 // @require      https://nekovcheat.io/source.js
@@ -8,7 +8,7 @@
 // @author       NekoVCheat
 // @grant        GM_xmlhttpRequest
 // @connect      uptolink.one
-// @connect      nekovcheat.io
+// @connect      vanhcheat.rf.gd
 // @connect      api.kolosal.ai
 // @connect      *
 // @run-at       document-end
